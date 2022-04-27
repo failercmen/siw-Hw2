@@ -1,0 +1,147 @@
+
+.section2 {
+  margin-top: 5px;
+  margin-bottom: -18px;
+  background-color: slateGray;
+  text-align: center;
+}
+
+#flex-containerOrizzontaleTop {
+  display: flex;
+  height: 250px;
+  width : 75%;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 7px;
+  background-color:Silver;
+}
+
+#flex-containerVerticaleNome {
+  display: flex;
+  flex-direction:column;
+  height:200px;
+  width:200px;
+  justify-content: space-around;
+}
+
+#flex-containerVerticaleDettagli {
+  display: flex;
+  flex-direction:column;
+  align-items: column;
+  height: 250px;
+  justify-content: space-around;
+}
+
+#flex-container {
+  flex-direction: column;
+  /*display:flex ; */
+  border: 2px solid black;
+  align-items: stretch;
+  padding: 8px;
+  height: 820px;
+  background-color: powderBlue;
+}
+
+
+.flex-item {
+  background-color: powderBlue;
+  margin-top: 30px;
+}
+
+.flex-item2 {
+  background-color: powderBlue;
+  margin-top: 20px;
+}
+
+.flex-item3 {
+  background-color: powderBlue;
+}
+
+.flex-item4 {
+  background-color: powderBlue;
+  margin-top: 0px;
+}
+
+.flex-item5 {
+  background-color: powderBlue;
+}
+
+.flex-item6 {
+  background-color: powderBlue;
+  display: flex;
+  flex-direction:column;
+}
+
+.flex-item7 {
+  margin-top: 18px;
+  /*background-color: darkviolet;*/
+}
+
+.flex-item8 {
+  margin-top: 18px;
+  /*background-color: darkviolet;*/
+}
+
+h1{
+  color :blue;
+  font-family: arial;
+}
+
+h1.titolo{
+  color :blue;
+  font-family: arial;
+  text-align: center;
+}
+
+h1.titolo2{
+  color :blue;
+  font-family: arial;
+  text-align: center;
+  position: 50px;
+  margin-top: -25px;
+}
+
+h4{
+   margin-top: 1px;
+   margin-bottom: 5px;
+   border: 2px solid black;
+}
+
+
+div{
+  font-family: arial;
+}
+
+img{
+  height: 250px;
+  border: 2px solid slateGray;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
